@@ -19,16 +19,12 @@ Built with **MongoDB (Mongoose)**
 |  | POST   | `/api/patients` | Create a new patient |
 |  | PUT    | `/api/patients/:id` | Update patient details |
 |  | DELETE | `/api/patients/:id` | Delete a patient |
-
-
 | Doctors 
 |  | GET    | `/api/doctors` | Get all doctors |
 |  | GET    | `/api/doctors/:id` | Get a specific doctor |
 |  | POST   | `/api/doctors` | Create a new doctor |
 |  | PUT    | `/api/doctors/:id` | Update doctor details |
 |  | DELETE | `/api/doctors/:id` | Delete a doctor |
-
-
 | Appointments
 |  |GET     | `/api/appointments` | Get all appointments |
 |  | GET    | `/api/appointments/:id` | Get a specific appointment |
