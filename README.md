@@ -8,6 +8,7 @@ Built with **MongoDB (Mongoose)**
 ## 🚀 Base URL
 
 - Local: `http://localhost:3000`
+- LIVE: https://se-midterm-project-crudmongodb-15.onrender.com/
 
 
 ## 📍 Endpoints Overview
